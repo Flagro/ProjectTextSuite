@@ -8,7 +8,8 @@ This suite consists of five distinct packages, each contributing uniquely to the
 2. **[VecMetaQ](https://github.com/Flagro/VecMetaQ):** An efficient server wrapper over a FAISS vector database, offering fast similarity search and simplified metadata storage.
 3. **[ProjectTextAgent](https://github.com/Flagro/ProjectTextAgent):** A Docker-based file observer written in Go, designed to keep your file database constantly updated.
 4. **[xlsx2pandas](https://github.com/Flagro/xlsx2pandas):** An intelligent XLSX file parser, ensuring smooth data extraction for integration into pandas dataframes.
-5. **[ProjectTextQnA](https://github.com/Flagro/ProjectTextQnA):** A question-answering interface leveraging LLMs for efficient QA and text-to-SQL pipelines, with support for both self-hosted and high-quality external LLMs like OpenAI API.
+5. **[RelaLLM](https://github.com/Flagro/RelaLLM):** Multi-Header Dataframe Processing with LLM-Powered Relational Database Mining.
+6. **[ProjectTextQnA](https://github.com/Flagro/ProjectTextQnA):** A question-answering interface leveraging LLMs for efficient QA and text-to-SQL pipelines, with support for both self-hosted and high-quality external LLMs like OpenAI API.
 
 ## 🚀 **Getting Started**
 
