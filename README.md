@@ -2,7 +2,7 @@
 
 Welcome to **ProjectTextSuite**, an innovative open-source library tailored for QnA language model (LLM) pipelines across various project databases. My suite effectively handles multiple file types such as Word, PDF, PPTX, etc., and is particularly adept at managing large data tables like XLSX. Its modular design allows for independent use of each component, aligning seamlessly with diverse project needs.
 
-This suite consists of five distinct packages, each contributing uniquely to the overall functionality:
+This suite consists of six distinct packages, each contributing uniquely to the overall functionality:
 
 1. **[TextTableScoop](https://github.com/Flagro/TextTableScoop):** A robust file-to-text and table-to-csv parser utilizing LibreOffice to safely extract text and tables in CSV format.
 2. **[VecMetaQ](https://github.com/Flagro/VecMetaQ):** An efficient server wrapper over a FAISS vector database, offering fast similarity search and simplified metadata storage.
